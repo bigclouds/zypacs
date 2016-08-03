@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="zypacs:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="zypacs.war">
+      <element id="artifact" artifact-name="zypacs:war exploded" />
+    </root>
+  </artifact>
+</component>
